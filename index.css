@@ -106,10 +106,14 @@ button{
         padding:0 auto;
     }
     body{
+        padding:150px 500px;
+    }
+    main{
         display:grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 0.8fr 1fr 30px;
-        padding:150px 500px;
+        box-shadow: 0px 10px 10px rgb(173, 169, 169);
+        padding:0;
     }
     #div1{
         grid-column:1/3;
