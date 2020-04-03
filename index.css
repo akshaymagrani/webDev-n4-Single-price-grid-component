@@ -109,7 +109,7 @@ button{
         display:grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 0.8fr 1fr 30px;
-        padding:100px 250px;
+        padding:150px 500px;
     }
     #div1{
         grid-column:1/3;
